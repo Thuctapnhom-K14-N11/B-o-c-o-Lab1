@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-
-=======
-test may 2222
->>>>>>> 5507d852edacc2627bd1bc9fddd4de8081dec4fa
